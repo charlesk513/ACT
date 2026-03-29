@@ -2,6 +2,7 @@
 A command-line application designed to help students organize and manage revision materials efficiently. The system allows users to store, update, and access PDFs, books, and other study resources by course unit.
 
 🚀 Features
+
       📂 Add revision materials (PDFs, books, notes)
       🗂️ Organize resources by course unit
       🔄 Update existing materials
@@ -9,14 +10,18 @@ A command-line application designed to help students organize and manage revisio
       ⚡ Lightweight CLI interface
       💾 Local file storage support
       🛠️ Tech Stack
+	
 Language: Java
+
 Concepts Used:
+
 Object-Oriented Programming (OOP)
 File Handling (File, BufferedReader, FileWriter)
 Collections (ArrayList, HashMap)
 Interface: Command Line Interface (CLI)
 
 📂 Project Structure
+
 revision-manager/
 │── src/
 │    ├── Main.java
@@ -29,7 +34,6 @@ revision-manager/
 │    ├── materials/
 │
 │── README.md
-⚙️ Installation & Setup
 
 
 Example CLI commands:
@@ -43,7 +47,9 @@ Each Material (PDF/book) is linked to a course unit.
 Data is stored locally using file handling.
 
 Course Unit → List of Materials
+
 🎯 Future Improvements
+
     🔐 Add user authentication
     🗄️ Integrate a database (e.g., PostgreSQL or MySQL)
     🔎 Implement advanced search (by topic, keyword)
@@ -51,6 +57,7 @@ Course Unit → List of Materials
     🖥️ GUI version using JavaFX or Swing
 
 👨‍💻 Author
+
 Kabunga Charles
 
 Colaboration: Lugonvu Joel, Ssenyonjo Twaha
