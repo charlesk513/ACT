@@ -25,35 +25,31 @@ Interface: Command Line Interface (CLI)
 revision-manager/
 
 │── src/
-
 │    ├── Main.java
-
 │    ├── Material.java
-
 │    ├── CourseUnit.java
-
 │    ├── RevisionManager.java
 │
 │── data/
-
 │    ├── course_units/
-
 │    ├── materials/
-
 │
-
 │── README.md
-
-
 
 Example CLI commands:
 
 add "Data Structures" "trees.pdf"
+
 view "Operating Systems"
+
 update "Computer Networks" "network_notes.pdf"
+
 💡 System Design Overview
+
 Each Course Unit is represented as an object.
+
 Each Material (PDF/book) is linked to a course unit.
+
 Data is stored locally using file handling.
 
 Course Unit → List of Materials
