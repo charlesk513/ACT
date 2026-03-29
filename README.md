@@ -24,17 +24,17 @@ Concepts Used:
 
 revision-manager/
 
-│── src/
-│    ├── Main.java
-│    ├── Material.java
-│    ├── CourseUnit.java
-│    ├── RevisionManager.java
-│
-│── data/
-│    ├── course_units/
-│    ├── materials/
-│
-│── README.md
+- │── src/
+- │    ├── Main.java
+- │    ├── Material.java
+- │    ├── CourseUnit.java
+- │    ├── RevisionManager.java
+- │
+- │── data/
+- │    ├── course_units/
+- │    ├── materials/
+- │
+- │── README.md
 
 Example CLI commands:
 
