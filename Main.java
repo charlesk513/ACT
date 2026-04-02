@@ -20,7 +20,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader input = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("======================================================================================");
-        System.out.println("                  REVISION MANAGER CLI (JAVA)");
+        System.out.println("                  ACT");
         System.out.println("======================================================================================");
 
         System.out.println("Manage your course materials and track revision progress.");
